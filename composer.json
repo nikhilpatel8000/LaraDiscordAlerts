@@ -1,5 +1,5 @@
 {
-	"name": "nikhil/laradiscordalerts",
+	"name": "nikhilpatel8000/laradiscordalerts",
 	"description": "A Laravel package to send error logs to Discord",
 	"type": "library",
 	"license": "MIT",
